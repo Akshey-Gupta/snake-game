@@ -33,3 +33,16 @@
 .snakebody{
     background-color: darkgray;
 }
+#highScoreDisplay, #scoreDisplay {
+    color: white;
+    font-size: 36px;
+    font-weight: bold;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+#scoreDisplay {
+    margin-top: 60px;
+}
+
